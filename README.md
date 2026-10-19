@@ -60,7 +60,7 @@ mv ~/.config/i3-backup ~/.config/i3
 ls -ld ~/.config/i3
 ```
 
-#### Recommended Configurations
+#### Recommended Configurations by 2KAbhishek
 
 Highly recommended to use this alongside the following configurations:
 
