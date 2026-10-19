@@ -50,9 +50,14 @@ Run [setup.sh](setup.sh) to install dependencies on Arch-based systems, or refer
 ### 💻 Installation
 
 ```bash
+mkdir -p /home/yourname/.config
 git clone https://github.com/2kabhishek/i32k
 cd i32k
 ./setup.sh
+cp -rL ~/.config/i3 ~/.config/i3-backup
+rm ~/.config/i3
+mv ~/.config/i3-backup ~/.config/i3
+ls -ld ~/.config/i3
 ```
 
 #### Recommended Configurations
