@@ -91,7 +91,7 @@ Needed X11 support for certain apps, which were not supported by my wayland conf
 
 <div align="center">
 
-<strong>⭐ hit the star button if you found this useful for 2KAbhishek ⭐</strong><br>
+<strong>⭐ Hit the star button for 2KAbhishek if you found this useful ⭐</strong><br>
 
 <a href="https://github.com/2KAbhishek/i32k">Source</a>
 | <a href="https://2kabhishek.github.io/blog" target="_blank">Blog </a>
